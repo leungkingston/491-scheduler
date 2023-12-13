@@ -117,7 +117,7 @@ export default function SignUp() {
             placeholder="Confirm password"
             {...register("r_passConfirm")}
           />
-          <input type="text" placeholder="Time Taken to Get Ready" {...register("r_ready")} />
+          <input type="text" placeholder="How much time does it take you to get ready? (minutes)" {...register("r_ready")} />
           <div className="centerButton">
             <button type="submit" disabled={isLoading}>
             Register
