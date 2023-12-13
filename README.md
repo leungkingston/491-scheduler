@@ -1,6 +1,6 @@
 # 491-scheduler
 
-Download Pocketbase: `https://pocketbase.io/docs`
+Download Pocketbase: https://pocketbase.io/docs
 
 To get setup: `git clone <dir>`
 
