@@ -2,7 +2,13 @@
 
 Download Pocketbase: https://pocketbase.io/docs
 
-To get setup: `git clone <dir>`
+SETUP 
+
+In root folder:
+
+Open a terminal:
+
+`git clone <dir>`
 
 `cd 491-scheduler`
 
@@ -14,4 +20,11 @@ To get setup: `git clone <dir>`
 
 `npm install react-date-picker`
 
+In /pb directory:
+
+Unzip pocketbase into `/pb` dir
+
+Open a new terminal in the `/pb` directory
+
+`./pocketbase serve`
 
