@@ -21,6 +21,7 @@ Open a terminal:
 `npm install react-date-picker`
 
 
+
 Then in /pb directory:
 
 Unzip pocketbase into `/pb` dir
