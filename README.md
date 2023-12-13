@@ -30,3 +30,10 @@ Open a new terminal in the `/pb` directory
 
 `./pocketbase serve`
 
+Leave this terminal open and running!
+
+Reopen first terminal (should be in `/pb_app`) or just open a new terminal in `pb_app`
+
+`npm start`
+
+AND BOOM you should be good to go!
